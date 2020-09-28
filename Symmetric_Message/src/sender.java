@@ -11,7 +11,7 @@ public class sender {
 
     try {
       // Creates a FileWriter
-      FileWriter file = new FileWriter("senderKey.txt");
+      FileWriter file = new FileWriter("sKey.txt");
 
       // Creates a BufferedWriter
       BufferedWriter output = new BufferedWriter(file);
